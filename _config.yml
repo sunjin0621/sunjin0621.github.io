@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "SUNIN LEE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **happy** person."
+  bio              : "I am a **happy** person."
   location         : "Somewhere"
   email            :
   links:
